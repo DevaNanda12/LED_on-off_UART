@@ -62,3 +62,5 @@ UART communication feedback messages are sent back for user confirmation.
 
 This software uses STMicroelectronics HAL libraries and is provided "AS-IS" without warranty.
 
+## Author
+ Deva Nanda S
